@@ -8,5 +8,8 @@ mysql:5.7
 redis:latest
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/metrics-server:v0.6.2
 docker.io/kubernetesui/metrics-scraper:v1.0.8
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/loki:2.7.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/grafana:9.3.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/promtail:2.7.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
