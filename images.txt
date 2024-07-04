@@ -1,18 +1,12 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-eipwork/nfs-subdir-external-provisioner:v4.0.2
-nginx:1.16.1
-mysql:5.7
-redis:latest
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/metrics-server:v0.6.2
-docker.io/kubernetesui/metrics-scraper:v1.0.8
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/loki:2.7.1
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/grafana:9.3.1
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/promtail:2.7.1
-swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-pv-browser:v3.0.1
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-operator:v0.49.0
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/kube-rbac-proxy:v0.11.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/blackbox-exporter:v0.19.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/configmap-reload:v0.5.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/grafana:8.1.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/kube-state-metrics:v2.1.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/node-exporter:v1.2.2
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/k8s-prometheus-adapter:v0.9.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/system-monitor-config-web:v3.1.6
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-webhook-dingtalk:v2.1.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
