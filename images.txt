@@ -12,5 +12,7 @@ swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/loki:2.7.1
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/grafana:9.3.1
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/promtail:2.7.1
 swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-pv-browser:v3.0.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-operator:v0.49.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/kube-rbac-proxy:v0.11.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
