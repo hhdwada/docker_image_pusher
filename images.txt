@@ -3,5 +3,6 @@ nginx
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus:v2.29.1
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-config-reloader:v0.49.0
 jenkins/jenkins:2.319.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/example-cloud-eureka:v1.0.0-alpha.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
