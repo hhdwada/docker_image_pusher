@@ -1,4 +1,11 @@
-istio/pilot:1.23.0
-busybox
+nginx
+#支持私库
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus:v2.29.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-config-reloader:v0.49.0
+jenkins/jenkins:2.319.1
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/example-cloud-eureka:v1.0.0-alpha.1
+mysql:8.0.34
+mysql:8.4.0
+docker.io/istio/pilot:1.23.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
