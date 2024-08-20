@@ -1,4 +1,4 @@
-docker.io/istio/pilot:1.23.0
+istio/pilot:1.23.0
 mysql
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
