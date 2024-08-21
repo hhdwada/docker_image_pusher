@@ -10,5 +10,6 @@ docker.io/grafana/grafana:11.0.0
 docker.io/jaegertracing/all-in-one:1.58
 docker.io/grafana/loki:3.0.0
 ghcr.io/prometheus-operator/prometheus-config-reloader:v0.73.2
+prom/prometheus:v2.52.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
