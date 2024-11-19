@@ -1,18 +1,5 @@
 nginx
 #支持私库
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus:v2.29.1
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-config-reloader:v0.49.0
-jenkins/jenkins:2.319.1
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/example-cloud-eureka:v1.0.0-alpha.1
-docker.io/istio/pilot:1.23.0
-docker.io/istio/proxyv2:1.23.0
-docker.io/grafana/grafana:11.0.0
-docker.io/jaegertracing/all-in-one:1.58
-docker.io/grafana/loki:3.0.0
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.73.2
-prom/prometheus:v2.52.0
-nacos/nacos-server:latest
-nacos/nacos-mysql:5.7
-gitbook
+ist0ne/xtrabackup
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
