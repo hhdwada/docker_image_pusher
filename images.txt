@@ -2,6 +2,6 @@ nginx
 #支持私库
 ist0ne/xtrabackup
 #支持指定架构
-meituaninc/cat:3.0.1
+meituaninc/cat:2.0.0
 mysql:5.7.37
 --platform=linux/arm64 xiaoyaliu/alist
