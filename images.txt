@@ -5,4 +5,5 @@ ist0ne/xtrabackup
 mysql:8.0.30
 redis:7.0.10
 meituaninc/cat:3.0.0
+kubehan/promai:latest
 --platform=linux/arm64 xiaoyaliu/alist
