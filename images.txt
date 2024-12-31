@@ -2,10 +2,6 @@ nginx
 #支持私库
 ist0ne/xtrabackup
 #支持指定架构
-mysql:8.0.30
-redis:7.0.10
-meituaninc/cat:3.0.0
-kubehan/promai:latest
 docker.io/bitnami/pgpool:4.4.3-debian-11-r58
 docker.io/bitnami/postgresql-repmgr:15.3.0-debian-11-r72
 --platform=linux/arm64 xiaoyaliu/alist
