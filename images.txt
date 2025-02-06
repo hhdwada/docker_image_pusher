@@ -2,6 +2,10 @@ nginx
 #支持私库
 ist0ne/xtrabackup
 #支持指定架构
-docker.io/bitnami/pgpool:4.4.3-debian-11-r58
-docker.io/bitnami/postgresql-repmgr:15.3.0-debian-11-r72
+docker.io/istio/examples-bookinfo-details-v1:1.15.0
+docker.io/istio/examples-bookinfo-productpage-v1:1.16.2
+docker.io/istio/examples-bookinfo-ratings-v1:1.15.0
+docker.io/istio/examples-bookinfo-reviews-v1:1.15.0
+docker.io/istio/examples-bookinfo-reviews-v2:1.15.0
+docker.io/istio/examples-bookinfo-reviews-v3:1.15.0
 --platform=linux/arm64 xiaoyaliu/alist
