@@ -2,5 +2,6 @@ nginx
 #支持私库
 ist0ne/xtrabackup
 #支持指定架构
-gcr.io/k8s-staging-sig-storage/iscsiplugin:canary
+nginx:latest
+cc2c/app-env:v1.0
 --platform=linux/arm64 xiaoyaliu/alist
