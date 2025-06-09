@@ -5,6 +5,6 @@ ist0ne/xtrabackup
 nginx:latest
 registry.k8s.io/sig-storage/livenessprobe:v2.10.0
 cc2c/app-env:v1.0
-xuxueli/xxl-job-admin:3.1.0
+xuxueli/xxl-job-admin
 mcr.microsoft.com/windows/servercore:ltsc2022
 --platform=linux/arm64 xiaoyaliu/alist
