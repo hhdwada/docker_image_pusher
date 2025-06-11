@@ -1,3 +1,2 @@
-apolloconfig/apollo-configservice:1.9.1
-apolloconfig/apollo-adminservice:1.9.1
+apolloconfig/apollo-portal:1.9.1
 --platform=linux/arm64 xiaoyaliu/alist
