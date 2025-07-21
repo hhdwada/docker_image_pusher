@@ -1,6 +1,2 @@
 quay.io/kubescape/kubescape:v3.0.34
-quay.io/kubescape/kubevuln:v0.3.80
-quay.io/kubescape/node-agent:v0.2.347
-quay.io/kubescape/operator:v0.2.94
-quay.io/kubescape/storage:v0.0.185
 --platform=linux/arm64 xiaoyaliu/alist
