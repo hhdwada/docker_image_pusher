@@ -1,4 +1,5 @@
 quay.io/kubescape/grype-offline-db:latest
 docker.io/aquasec/kube-bench:v0.11.2
 eipwork/kuboard:v3.1.7.1
+eipwork/kuboard-agent:v3
 --platform=linux/arm64 xiaoyaliu/alist
