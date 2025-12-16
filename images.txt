@@ -1,2 +1,8 @@
-python:3.11-slim
+postgres:12.3
+taigaio/taiga-back:latest
+rabbitmq:3.8-management-alpine
+taigaio/taiga-events:latest
+rabbitmq:3.8-management-alpine
+taigaio/taiga-protected:latest
+nginx:1.19-alpine
 --platform=linux/arm64 xiaoyaliu/alist
