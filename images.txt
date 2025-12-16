@@ -1,5 +1,3 @@
-taigaio/backend:alpha
-postgres:15
-redis:7
-taigaio/frontend:alpha
+taigaio/taiga-back:latest
+taigaio/taiga-front:latest
 --platform=linux/arm64 xiaoyaliu/alist
