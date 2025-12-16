@@ -1,2 +1,2 @@
-postgres:15
+python:3.11-slim
 --platform=linux/arm64 xiaoyaliu/alist
