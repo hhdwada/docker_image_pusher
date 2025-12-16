@@ -1,5 +1,5 @@
-quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
-quay.io/prometheus/alertmanager:v0.27.0
-quay.io/prometheus/prometheus:v2.54.1
-swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/system-monitor-config-web:v3.1.6
+taigaio/backend:alpha
+postgres:15
+redis:7
+taigaio/frontend:alpha
 --platform=linux/arm64 xiaoyaliu/alist
