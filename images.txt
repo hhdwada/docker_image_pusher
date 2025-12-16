@@ -1,3 +1,2 @@
-taigaio/taiga-back:latest
-taigaio/taiga-front:latest
+postgres:15
 --platform=linux/arm64 xiaoyaliu/alist
