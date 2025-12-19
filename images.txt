@@ -1,3 +1,2 @@
-ghcr.io/plankanban/planka:latest
-postgres:14-alpine
+centos:8
 --platform=linux/arm64 xiaoyaliu/alist
