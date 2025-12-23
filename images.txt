@@ -1,2 +1,2 @@
-centos:8
+thingsboard/tb-node:4.2.0
 --platform=linux/arm64 xiaoyaliu/alist
