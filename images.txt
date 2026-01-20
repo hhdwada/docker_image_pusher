@@ -1,2 +1,2 @@
-thingsboard/tb-node:4.2.0
+percona/percona-server:8.4.0
 --platform=linux/arm64 xiaoyaliu/alist
