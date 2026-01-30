@@ -1,2 +1,2 @@
-percona/percona-server:8.4.0
+kibana:7.17.18
 --platform=linux/arm64 xiaoyaliu/alist
