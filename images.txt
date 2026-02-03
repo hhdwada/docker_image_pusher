@@ -1,2 +1,2 @@
-kibana:7.17.18
+kibana:8.11.0
 --platform=linux/arm64 xiaoyaliu/alist
