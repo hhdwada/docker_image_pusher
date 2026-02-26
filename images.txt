@@ -1,10 +1,9 @@
-langgenius/dify-api:latest
-langgenius/dify-web:latest
-langgenius/dify-sandbox:latest
-langgenius/dify-plugin-daemon:latest
+langgenius/dify-api:1.13.0
+langgenius/dify-web:1.13.0
+redis:6-alpine
 postgres:15-alpine
-redis:7-alpine
-nginx:alpine
-squid:alpine
-semitechnologies/weaviate:1.24.6
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.5.3-local
+ubuntu/squid:latest
+nginx:latest
 --platform=linux/arm64 xiaoyaliu/alist
