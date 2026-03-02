@@ -1,6 +1,4 @@
-infiniflow/ragflow:v0.24.0
-mysql:8.0
-minio/minio:latest
-redis:7-alpine
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+valkey/valkey:8
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 --platform=linux/arm64 xiaoyaliu/alist
