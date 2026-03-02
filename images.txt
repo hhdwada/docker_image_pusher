@@ -1,2 +1,2 @@
-semitechnologies/weaviate:1.27.0
+infiniflow/ragflow:v0.15.0-slim
 --platform=linux/arm64 xiaoyaliu/alist
