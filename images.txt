@@ -1,2 +1,2 @@
-busybox:latest
+semitechnologies/weaviate:1.27.0
 --platform=linux/arm64 xiaoyaliu/alist
