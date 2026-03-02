@@ -1,2 +1,6 @@
-infiniflow/ragflow:v0.15.0-slim
+infiniflow/ragflow:v0.24.0
+mysql:8.0
+minio/minio:latest
+redis:7-alpine
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 --platform=linux/arm64 xiaoyaliu/alist
