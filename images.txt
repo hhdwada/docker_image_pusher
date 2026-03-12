@@ -1,6 +1,6 @@
-zabbix/zabbix-web-nginx-mysql:latest
-zabbix/zabbix-server-mysql:centos-latest
-zabbix/zabbix-agent:latest
-zabbix/zabbix-java-gateway:latest
+zabbix/zabbix-web-nginx-mysql:5.4.0
+zabbix/zabbix-server-mysql:5.4.0
+zabbix/zabbix-agent:5.4.0
+zabbix/zabbix-java-gateway:5.4.0
 mysql:5.7
 --platform=linux/arm64 xiaoyaliu/alist
