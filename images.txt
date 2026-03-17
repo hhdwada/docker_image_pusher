@@ -1,3 +1,2 @@
-dockerhub.kubekey.local/tiangang/nacos:2.2.3
-dockerhub.kubekey.local/tiangang/nacos:3.0.0
+docker.daocloud.io/nacos/nacos-server:v3.1.0
 --platform=linux/arm64 xiaoyaliu/alist
