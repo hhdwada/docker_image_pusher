@@ -1,2 +1,2 @@
-docker.daocloud.io/nacos/nacos-server:v3.1.0
+nacos/nacos-server:v3.0.1
 --platform=linux/arm64 xiaoyaliu/alist
