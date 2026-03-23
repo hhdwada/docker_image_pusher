@@ -1,2 +1,2 @@
-metabase/metabase:latest
+sonarqube:lts-community
 --platform=linux/arm64 xiaoyaliu/alist
