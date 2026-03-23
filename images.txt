@@ -1,2 +1,2 @@
-sonarqube:lts-community
+postgres:15-alpine
 --platform=linux/arm64 xiaoyaliu/alist
