@@ -1,2 +1,2 @@
-sonarqube:2026-lta-community
+sonarqube:2026.1-community
 --platform=linux/arm64 xiaoyaliu/alist
