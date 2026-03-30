@@ -1,2 +1,2 @@
-sonarqube:10.9.0-community
+hengyunabc/arthas-tunnel-server:3.7.2
 --platform=linux/arm64 xiaoyaliu/alist
