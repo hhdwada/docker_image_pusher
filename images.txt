@@ -1,2 +1,2 @@
-hengyunabc/arthas-tunnel-server:3.7.2
+openjdk:8-jre-slim
 --platform=linux/arm64 xiaoyaliu/alist
