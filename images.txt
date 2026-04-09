@@ -1,2 +1,2 @@
-minio/minio:RELEASE.2026-03-20T23-11-32Z
+pgsty/minio:RELEASE.2026-02-14T12-00-00Z
 --platform=linux/arm64 xiaoyaliu/alist
