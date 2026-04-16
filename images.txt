@@ -1,2 +1,2 @@
-bytebase/bytebase:latest
+justsong/one-api:latest
 --platform=linux/arm64 xiaoyaliu/alist
