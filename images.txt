@@ -1,2 +1,2 @@
-minio/minio:RELEASE.2024-03-30T15-47-38Z
+langgenius/dify-plugin-runtime:latest
 --platform=linux/arm64 xiaoyaliu/alist
