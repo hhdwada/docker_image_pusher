@@ -1,2 +1,2 @@
-langgenius/dify-plugin-runtime:latest
+langgenius/dify-plugin-runtime:0.5.3
 --platform=linux/arm64 xiaoyaliu/alist
