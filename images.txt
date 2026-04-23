@@ -1,2 +1,2 @@
-justsong/one-api:latest
+docker pull informalsystems/hermes:v1.13.3
 --platform=linux/arm64 xiaoyaliu/alist
