@@ -1,5 +1,4 @@
-dify-api:1.13.3
-dify-web:1.13.3
-dify-worker:1.13.3
-dify-sandbox:0.2.13
+langgenius/dify-api:1.13.3
+langgenius/dify-web:1.13.3
+langgenius/dify-sandbox:0.2.14
 --platform=linux/arm64 xiaoyaliu/alist
