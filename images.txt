@@ -1,2 +1,2 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:0.16.17
+quay.io/unstructured-io/unstructured-api:0.16.17
 --platform=linux/arm64 xiaoyaliu/alist
