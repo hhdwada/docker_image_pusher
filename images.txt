@@ -1,2 +1,2 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+downloads.unstructured.io/unstructured-io/unstructured-api:0.15.13
 --platform=linux/arm64 xiaoyaliu/alist
