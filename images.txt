@@ -1,2 +1,2 @@
-quay.io/unstructured-io/unstructured-api:0.16.17
+docker.unstructured.io/unstructured-io/unstructured-api:0.16.20
 --platform=linux/arm64 xiaoyaliu/alist
