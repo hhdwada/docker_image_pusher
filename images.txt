@@ -1,2 +1,20 @@
-percona/pmm-server:3.0.0
+neo4j:5.26.2
+clickhouse/clickhouse-server:24
+postgres:16
+redis:7
+minio/minio:RELEASE.2025-07-23T15-54-02Z
+vxcontrol/pentagi:latest
+vxcontrol/graphiti:latest
+vxcontrol/pgvector:latest
+vxcontrol/scraper:latest
+grafana/grafana:11.4.0
+grafana/loki:3.3.2
+jaegertracing/all-in-one:1.56.0
+langfuse/langfuse:3
+langfuse/langfuse-worker:3
+otel/opentelemetry-collector-contrib:0.116.1
+victoriametrics/victoria-metrics:v1.108.1
+prom/node-exporter:v1.8.2
+quay.io/prometheuscommunity/postgres-exporter:v0.16.0
+gcr.io/cadvisor/cadvisor:v0.51.0
 --platform=linux/arm64 xiaoyaliu/alist
