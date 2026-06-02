@@ -1,2 +1,2 @@
-n8nio/n8n:latest
+jc21/nginx-proxy-manager:2.15.0
 --platform=linux/arm64 xiaoyaliu/alist
